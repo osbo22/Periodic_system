@@ -1,0 +1,93 @@
+ td{
+	background-color: #efe950;
+	width: 90px;
+	height: 90px;
+	font-family: Segoe UI;
+	font-weight:bold;
+	text-align: center;
+	font-size: 20px;
+
+}
+table .second_system td{
+	background-color: #efe950;
+	width: 70px;
+	height: 70px;
+	font-family: Segoe UI;
+	font-weight:bold;                           
+	text-align: center;
+	
+}
+
+.alkali  {
+	background-color: #ccc;
+}
+
+.alkali_red {
+	background-color: #ccc;
+	color: red;
+}
+
+.alkaline{
+	background-color: #56d863;
+}	
+
+.text_white{
+	color: white;
+	text-outline: 1px 1px black;
+	
+}
+
+.nonmetals{
+	background-color: #87c7c6;
+}
+
+.nonmetals_red{
+	background-color: #87c7c6;
+	color: red;
+}
+
+.nonmetals_blue{
+	background-color: #87c7c6;
+	color: blue;
+}
+
+.other_metals{
+	background-color: #bf76a5;
+}
+
+.noble_gases{
+	background-color: #f29c57;
+	color: red;
+}
+
+.text_blue{
+color: blue;
+}
+
+.clear{
+	opacity: 0;
+	
+}
+
+.clear2{
+	opacity: 0;
+	height: 10px;
+	width: 10px;
+}
+.atomicNumber{
+	font-size:12px;
+	
+
+}
+.atomicWeight{
+	font-size: 12px;
+
+}
+.elementName{
+	font-size: 12px;
+
+}
+
+td p {
+	margin:0;
+}
